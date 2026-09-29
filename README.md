@@ -1,4 +1,4 @@
-# 🌍 Aqi-ESP — Smart IoT AQI Monitoring System
+# 🌍 AQI-ESP — Smart IoT AQI Monitoring System
 
 <p align="center">
   <strong>Real-Time Air Quality Monitoring with ESP32, MicroPython & Flask</strong>
